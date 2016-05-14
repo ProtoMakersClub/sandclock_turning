@@ -1,0 +1,7 @@
+Bill Of Materials
+=================
+
+1x Freaduino UNO
+4x Servomotor SM-S4303R
+1x Printed part "sandclock_holder.stl"
+1x Tie raps 4x100
